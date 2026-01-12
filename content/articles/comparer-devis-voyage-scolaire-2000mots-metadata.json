@@ -1,0 +1,301 @@
+{
+  "article": {
+    "title": "Comparer des devis de voyage scolaire : 10 étapes pour choisir le meilleur prestataire",
+    "slug": "comparer-devis-voyage-scolaire",
+    "metaTitle": "Comparer Devis Voyages Scolaires : 10 Étapes [Guide 2026]",
+    "metaDescription": "Économisez 30% sur vos voyages scolaires ! Guide expert en 10 étapes pour comparer les devis et choisir un prestataire fiable. Méthode éprouvée 2026.",
+    "focusKeyword": "comparer les devis de voyages scolaires",
+    "secondaryKeywords": [
+      "devis voyage scolaire",
+      "choisir prestataire voyage scolaire",
+      "prix voyage scolaire",
+      "économiser voyage scolaire",
+      "organisateur voyage scolaire fiable",
+      "assurance voyage scolaire",
+      "immatriculation atout france"
+    ],
+    "canonicalUrl": "https://example.com/articles/comparer-devis-voyage-scolaire",
+    "publishedDate": "2026-01-12",
+    "lastModified": "2026-01-12",
+    "author": {
+      "name": "Expert Voyages Scolaires",
+      "expertise": "Spécialiste en organisation de voyages éducatifs et conseil pédagogique"
+    },
+    "language": "fr",
+    "readingTime": "8 minutes",
+    "wordCount": 2064,
+    "category": "Voyages Scolaires",
+    "tags": [
+      "voyage scolaire",
+      "devis",
+      "comparaison",
+      "budget",
+      "organisation",
+      "prestataire",
+      "assurance",
+      "certification",
+      "collège",
+      "lycée"
+    ]
+  },
+  "seo": {
+    "intent": "informational-transactional",
+    "targetAudience": "Enseignants, chefs d'établissement, organisateurs de voyages scolaires",
+    "contentType": "guide-pratique-condensé",
+    "searchVolume": "medium",
+    "difficulty": "medium",
+    "ctr_optimization": {
+      "title_hooks": [
+        "10 étapes",
+        "choisir le meilleur",
+        "2026"
+      ],
+      "description_benefits": [
+        "Économisez 30%",
+        "guide expert",
+        "méthode éprouvée"
+      ]
+    },
+    "keywordDensity": {
+      "primary": "1.8%",
+      "natural": true,
+      "lsiKeywords": "well-integrated"
+    }
+  },
+  "schemaMarkup": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Comparer des devis de voyage scolaire : 10 étapes pour choisir le meilleur prestataire",
+    "description": "Guide expert pour comparer les devis de voyages scolaires, économiser jusqu'à 30% et identifier les prestataires fiables. Méthode en 10 étapes avec grille de notation.",
+    "image": "https://example.com/images/comparer-devis-voyage-scolaire.jpg",
+    "datePublished": "2026-01-12",
+    "dateModified": "2026-01-12",
+    "author": {
+      "@type": "Person",
+      "name": "Expert Voyages Scolaires",
+      "jobTitle": "Spécialiste en organisation de voyages éducatifs"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Graines",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://example.com/logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://example.com/articles/comparer-devis-voyage-scolaire"
+    },
+    "articleSection": "Voyages Scolaires",
+    "wordCount": 2064,
+    "educationalUse": "Guidance",
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": "teacher"
+    }
+  },
+  "faqSchema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Quand demander des devis de voyage scolaire ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "6 à 9 mois avant le départ pour destinations prisées, 4 à 6 mois pour destinations accessibles. Cette anticipation permet d'obtenir les meilleurs tarifs et d'organiser le financement."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Peut-on négocier les prix d'un devis de voyage scolaire ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oui, partiellement. Négociez sur le nombre de gratuités accompagnateurs (1 pour 10 vs 1 pour 15), prestations optionnelles, et paiement anticipé (early-booking). Les prix de base sont peu négociables."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Combien coûte un voyage scolaire en 2026 ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "France: 150-400€ selon durée. Europe proche: 300-650€. Europe éloignée: 500-900€. Prix incluent transport, hébergement pension complète, visites et assurances."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Que faire si un prestataire n'a pas de numéro Atout France ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Éliminez-le immédiatement. Sans immatriculation Atout France, le prestataire opère illégalement et n'a pas de garantie financière. Signalez-le à la DGCCRF."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Comment financer un voyage scolaire pour élèves sans moyens ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Solutions: aides financières (Fonds social, FSE, subventions collectivités), actions de financement collectif (ventes, tombolas), échelonnement des paiements sur 6-8 mois."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Quels recours en cas de problème avec un prestataire ?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pendant voyage: signaler immédiatement, documenter, demander compensation. Après voyage: réclamation écrite sous 8 jours, médiation UNOSEL, signalement DGCCRF, action en justice si nécessaire."
+        }
+      }
+    ]
+  },
+  "howToSchema": {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Comment comparer des devis de voyage scolaire",
+    "description": "Méthode en 10 étapes pour comparer efficacement les devis de voyages scolaires et choisir le meilleur prestataire",
+    "totalTime": "PT2H",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Définir critères essentiels",
+        "text": "Clarifiez destination, objectifs pédagogiques, budget, dates et prestations avant de demander des devis."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Solliciter 3-5 prestataires spécialisés",
+        "text": "Contactez des organisateurs spécialisés en voyages scolaires avec minimum 5 ans d'expérience."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Vérifier mentions légales obligatoires",
+        "text": "Contrôlez numéro Atout France, garantie financière, assurance RC professionnelle."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Analyser transparence des prix",
+        "text": "Décomposez le prix par poste: transport, hébergement, restauration, activités, assurances."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Comparer les assurances",
+        "text": "Vérifiez assurance annulation, rapatriement et RC voyage avec leurs conditions."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 6,
+        "name": "Évaluer qualité pédagogique",
+        "text": "Analysez dossiers pédagogiques, alignement programmes scolaires, qualité des guides."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 7,
+        "name": "Examiner conditions d'annulation",
+        "text": "Lisez barème de pénalités et clauses de force majeure."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 8,
+        "name": "Vérifier certifications et labels",
+        "text": "Contrôlez immatriculation Atout France et labels qualité (UNOSEL, Qualité Tourisme)."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 9,
+        "name": "Consulter avis et références",
+        "text": "Contactez établissements clients et lisez avis en ligne pour évaluer réputation."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 10,
+        "name": "Utiliser grille de comparaison",
+        "text": "Notez chaque prestataire sur 100 points avec grille standardisée pour comparaison objective."
+      }
+    ]
+  },
+  "optimization": {
+    "version": "condensée-2000-mots",
+    "strengths": [
+      "Longueur optimale 2000 mots pour lecture rapide",
+      "Densité SEO maximale",
+      "Structure claire en 10 étapes",
+      "2 tableaux comparatifs essentiels",
+      "FAQ condensée 6 questions",
+      "Réponse directe dans intro",
+      "Mots-clés bien intégrés",
+      "Call-to-action clair"
+    ],
+    "internalLinks": [
+      "guide-organiser-voyage-scolaire",
+      "financer-voyage-scolaire",
+      "destinations-voyage-scolaire-2026",
+      "assurances-voyage-scolaire"
+    ],
+    "externalLinks": [
+      "atout-france.fr (autorité)",
+      "unosel.org (label qualité)",
+      "education.gouv.fr (réglementation)"
+    ],
+    "multimodalContent": {
+      "tables": 2,
+      "lists": 80,
+      "faqQuestions": 6,
+      "howToSteps": 10
+    },
+    "readabilityScore": {
+      "fleschScore": 58,
+      "level": "Accessible collège/lycée/adultes",
+      "averageSentenceLength": 14,
+      "complexWords": "10%"
+    }
+  },
+  "aiOptimization": {
+    "version": "condensée-efficace",
+    "conversationalTone": true,
+    "directAnswers": true,
+    "actionableContent": true,
+    "expertise": "high",
+    "sources": [
+      "Ministère de l'Éducation nationale (2025)",
+      "UNOSEL (2025)",
+      "Observatoire du Tourisme Éducatif (2025)"
+    ],
+    "structuredData": {
+      "faqQuestions": 6,
+      "howToSteps": 10,
+      "comparisonTables": 2
+    },
+    "updateFrequency": "every-6-months",
+    "freshness": {
+      "currentYear": 2026,
+      "statistics": "2026",
+      "prices": "2026",
+      "regulations": "current"
+    },
+    "geoAdvantages": [
+      "Réponse ultra-directe dans 50 premiers mots",
+      "Format condensé = citation facile par IA",
+      "Statistiques précises 2026",
+      "Sources officielles citées",
+      "Expertise E-E-A-T claire",
+      "Structure numérotée 1-10 facilite extraction",
+      "Tableaux de données pour comparaison",
+      "FAQ courte mais percutante"
+    ]
+  },
+  "performance": {
+    "targetLoadTime": "< 2s",
+    "imagesOptimization": "WebP < 150KB",
+    "mobileFirst": true,
+    "coreWebVitals": {
+      "LCP": "< 2.0s",
+      "FID": "< 80ms",
+      "CLS": "< 0.1"
+    }
+  }
+}
